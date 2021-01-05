@@ -19,20 +19,29 @@ git --version
 ### Configure name
 
 ```
-git config --global user.name [Name]
+git config --global user.name Name
 ```
 
 ### Configure email
 
 ```
-git config --global user.email [Email]
+git config --global user.email Email
 ```
 
-### 1. Initializing a git repository in your current folder
+## Create a repository
+
+### Initialize an empty git repository in your current folder
 
 ```
 git init
 ```
+
+### Download an existing github repository 
+
+```
+git clone URL
+```
+
 
 ### a. *Adding* files to the repository
 
