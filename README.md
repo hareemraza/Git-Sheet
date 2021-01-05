@@ -36,7 +36,7 @@ git config --global user.email Email
 git init
 ```
 
-### Download an existing github repository 
+### Download an existing git repository 
 
 ```
 git clone URL
@@ -86,31 +86,21 @@ git branch -m [new_branchname]
 git branch -d [branchname]
 ```
 
+## Logs
 
-
-### 21. Pushing everything to the remote repository
+### View all commits in the current branch
 
 ```
-git push -u origin master
+git log
 ```
 
-## 22. For making a pull request
+### View last *N* commits in the current branch
 
-1. Go to any github repository [for example](https://github.com/mkumail1/PurrfectMatchingHTML-CSS).
-2. Tap on folk.
-3. Copy the link forked from your copy of the repository.
-4. Open terminal and type.
 ```
-git clone <url>
+git log -N
 ```
-5. Add a new branch:
-```
-git checkout -b <branchname>
-```
-6. Make changes, then commit.
-7. Push your changes.
-8. Your repository will automatically show a green button stating **compare & pull request** in the *pull request* section
-9. Afterwards use [pull request](https://github.com/mkumail1/PurrfectMatchingHTML-CSS/pulls) to make a request.
 
-## Acknowledgments
+## Conventions
+
+- In [ word ], word refers to a string which varies with filename, foldername, branchname etc.
 
