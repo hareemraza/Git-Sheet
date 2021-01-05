@@ -2,7 +2,17 @@
 
 This is a very simple cheatsheet of the most commonly used git commands.
 
-## Installation and Setup
+## Table of contents
+* [Installation and Setup](#installation)
+* [Screenshots](#configuration)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
+
+## Installation
 
 ### Installing Git
 
