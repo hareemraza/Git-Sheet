@@ -16,9 +16,9 @@ This is a very simple cheatsheet of the most commonly used git commands.
 
 ### Installing Git
 
-```
+````
 https://git-scm.com/downloads
-```
+````
 
 ### Checking the version of Git
 
