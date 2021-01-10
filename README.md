@@ -2,16 +2,6 @@
 
 This is a very simple cheatsheet of the most commonly used git commands.
 
-## Table of contents
-* [Installation and Setup](#installation)
-* [Screenshots](#configuration)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
-
 ## Installation
 
 ### Installing Git
@@ -114,5 +104,5 @@ git log -N
 
 ## Conventions
 
-- In [ word ], word refers to a string which varies with filename, foldername, branchname etc.
+- In [word], word refers to a string which varies with filename, foldername, branchname etc.
 
