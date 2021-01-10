@@ -1,6 +1,5 @@
 # Git Sheet - A Cheatsheet for Git and Github 
 
-This is a very simple cheatsheet of the most commonly used git commands.
 
 ## Installation
 
