@@ -46,16 +46,22 @@ git clone URL
 
 ## Staging Files
 
+### List staged, unstaged and  untracked files
+
+```
+git status
+```
+
 ### Stage changes in a file for the next commit
 
 ```
 git add [filename]
 ```
 
-### List staged, unstaged and  untracked files
+### Add all the files in the current folder for the next commit
 
 ```
-git status
+git add .
 ```
 
 ## Branches
