@@ -44,6 +44,20 @@ git init
 git clone URL
 ```
 
+## Staging Files
+
+### Stage changes in a file for the next commit
+
+```
+git add [filename]
+```
+
+### List staged, unstaged and  untracked files
+
+```
+git status
+```
+
 ## Branches
 
 ### List all local branches
