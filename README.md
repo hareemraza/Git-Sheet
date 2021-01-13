@@ -85,9 +85,9 @@ git branch [branchname]
 
 ### Create a new branch and move to it 
 
-```
+`
 git checkout -b [branchname]
-```
+`
 
 ### Move to an existing branch
 
