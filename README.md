@@ -5,51 +5,51 @@
 
 ### Installing Git
 
-````
+``
 https://git-scm.com/downloads
-````
+``
 
 ### Checking the version of Git
 
-```
+``
 git --version
-```
+``
 
 ## Configuration
 
 ### Configure name
 
-```
+`
 git config --global user.name Name
-```
+`
 
 ### Configure email
 
-```
+`
 git config --global user.email Email
-```
+`
 
 ## Create a repository
 
 ### Initialize an empty git repository
 
-```
+`
 git init
-```
+`
 
 ### Download an existing git repository 
 
-```
+`
 git clone URL
-```
+`
 
 ## Staging Files
 
 ### List staged, unstaged and  untracked files
 
-```
+`
 git status
-```
+`
 
 ### Stage changes in a file for the next commit
 
